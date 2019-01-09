@@ -7,10 +7,11 @@ rp.py -p m3 -r 200
 ```
 
 ## Help
-| Argument | Description |
-| --- | --- |
-| prefix | Sets a String of 2 Characters |
-| results | Sets a max limit of search results |
+```
+arguments:
+-p CHARS    a
+-r MAXN   aa
+```
 
 **Prefix:** Depending on the prefix used, you may find Images that are older, newer or find none at all.
 
