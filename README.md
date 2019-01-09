@@ -6,6 +6,7 @@ Finds photos uploaded by people to a specific Host. This is an simplier and open
 rp.py -p m3 -r 200
 ```
 
+### Help
 | Argument | Description |
 | --- | --- |
 | prefix | Sets a String of 2 Characters |
