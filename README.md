@@ -1,5 +1,5 @@
 # RP-Python
-Finds photos uploaded by people to a specific Host. This is an open-source version of [RP](https://github.com/miltinhoc/RP)
+Finds photos uploaded by people to a specific Host. This is an simplier and open-source version of [RP](https://github.com/miltinhoc/RP)
 
 ### Usage example:
 ```
