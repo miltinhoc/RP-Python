@@ -9,8 +9,8 @@ rp.py -p m3 -r 200
 ## Help
 ```
 arguments:
--p CHARS    a
--r MAXN   aa
+-p CHARS           A prefix (2 characters) used to find images (example: c4)
+-r MAXN            Maximum limit of search results
 ```
 
 **Prefix:** Depending on the prefix used, you may find Images that are older, newer or find none at all.
